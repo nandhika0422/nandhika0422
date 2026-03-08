@@ -1,0 +1,28 @@
+name: Generate Pastel Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: nandhika0422
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=f2b8c4&color_dots[0]=fdf6ee&color_dots[1]=fce4ec&color_dots[2]=f9d5dc&color_dots[3]=f2b8c4&color_dots[4]=d4849a
+            dist/github-contribution-grid-snake-dark.svg?color_snake=c9a0b4&color_dots[0]=1a0010&color_dots[1]=2d0a1e&color_dots[2]=5c1a3a&color_dots[3]=9e4d6e&color_dots[4]=c9a0b4
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
