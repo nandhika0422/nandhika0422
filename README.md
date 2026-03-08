@@ -1,31 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0005,30:1a0010,60:2d0020,100:0d0005&height=360&section=header&text=NANDHIKA&fontSize=100&fontColor=fce4ec&fontAlignY=42&desc=%E2%80%94%E2%80%84%20A%20I%20%C2%B7%20M%20L%20%C2%B7%20P%20Y%20T%20H%20O%20N%20%E2%80%84%E2%80%94&descSize=18&descColor=f48fb1&descAlignY=63&animation=fadeIn&stroke=f48fb1&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:fdf0e8,25:fdf6ee,50:f9eef4,75:fdf6ee,100:fdf0e8&height=340&section=header&text=NANDHIKA&fontSize=96&fontColor=3d2b35&fontAlignY=44&desc=%E2%80%94%E2%80%84%20A%20I%20%C2%B7%20M%20L%20%C2%B7%20P%20Y%20T%20H%20O%20N%20%E2%80%84%E2%80%94&descSize=17&descColor=d4849a&descAlignY=63&animation=fadeIn&stroke=d4849a&strokeWidth=1" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0005,20:f48fb1,50:ce93d8,80:f48fb1,100:0d0005&height=2" width="100%"/>
-
-<br/>
-
-`✦  VOL. I  ·  2024  ·  BENGALURU  ·  THE AI ISSUE  ✦`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,30:f2c4ce,50:c9a0b4,70:f2c4ce,100:fdf6ee&height=2" width="100%"/>
 
 <br/>
 
-![](https://img.shields.io/badge/✦_BUILDING-AI_ASSISTANT-f48fb1?style=flat-square&labelColor=1a0010)
+`✦  VOL. I  ·  2026  ·  BENGALURU  ·  THE AI ISSUE  ✦`
+
+<br/>
+
+![](https://img.shields.io/badge/✦_BUILDING-AI_ASSISTANT-d4849a?style=flat-square&labelColor=fdf0e8)
 &nbsp;
-![](https://img.shields.io/badge/✦_PURSUING-BCA_·_DATA_SCIENCE-ce93d8?style=flat-square&labelColor=1a0010)
+![](https://img.shields.io/badge/✦_DEGREE-BCA_%28Bachelor_of_Computer_Applications%29-c9a0b4?style=flat-square&labelColor=fdf0e8)
 &nbsp;
-![](https://img.shields.io/badge/✦_BASED_IN-INDIA_🇮🇳-f48fb1?style=flat-square&labelColor=1a0010)
+![](https://img.shields.io/badge/✦_COURSE-Data_Science-d4849a?style=flat-square&labelColor=fdf0e8)
+&nbsp;
+![](https://img.shields.io/badge/✦_BASED_IN-INDIA_🇮🇳-d4849a?style=flat-square&labelColor=fdf0e8)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0005,20:f48fb1,50:ce93d8,80:f48fb1,100:0d0005&height=1" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:f2c4ce,100:fdf6ee&height=1" width="40%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0005,100:1a0010&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20E%20D%20I%20T%20O%20R%20%27%20S%20%20L%20E%20T%20T%20E%20R%20%20%E2%9C%A6&fontSize=14&fontColor=f48fb1&animation=fadeIn" width="58%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20E%20D%20I%20T%20O%20R%20%27%20S%20%20L%20E%20T%20T%20E%20R%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
 </div>
 
 <br/>
@@ -39,13 +41,13 @@
   │   a developer who treats every model like a masterpiece           │
   │   and every dataset like a carefully curated mood board.          │
   │                                                                   │
-  │   A BCA student specialising in Data Science and AI,              │
+  │   A BCA student (Bachelor of Computer Applications) pursuing Data Science,              │
   │   she builds systems that don't merely process data —             │
   │   they understand it. They feel it.                               │
   │                                                                   │
-  │   This season's collection: an AI that listens, thinks,           │
-  │   speaks, and responds with empathy. Draped in Python.            │
-  │   Finished in Generative AI. Accessorised with Neural Nets.       │
+  │   This season: an AI that listens, thinks, speaks, and            │
+  │   responds with empathy. Draped in Python. Finished in            │
+  │   Generative AI. Accessorised with Neural Networks.               │
   │                                                                   │
   │   ✦                                           — The Edit   ✦      │
   │                                                                   │
@@ -53,13 +55,13 @@
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0005,50:ce93d8,100:0d0005&height=1" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:c9a0b4,100:fdf6ee&height=1" width="50%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0005,100:1a0010&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20P%20R%20O%20F%20I%20L%20E%20%20%E2%9C%A6&fontSize=14&fontColor=f48fb1&animation=fadeIn" width="58%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20P%20R%20O%20F%20I%20L%20E%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
 </div>
 
 <br/>
@@ -73,8 +75,8 @@ profile = {
     "name"        :  "Nandhika",
     "handle"      :  "nandhika0422",
     "roles"       :  ["AI Developer", "ML Engineer", "Python Developer"],
-    "education"   :  "BCA  ·  Data Science & AI Specialisation",
-
+    "degree"      :  "BCA — Bachelor of Computer Applications",
+    "course"      :  "Data Science",
     "skills"      :  {
         "languages"   : ["Python", "SQL", "JavaScript", "HTML", "CSS"],
         "ai_ml"       : ["Machine Learning", "NLP", "Mood Detection", "LLMs"],
@@ -84,21 +86,21 @@ profile = {
         "concepts"    : ["REST APIs", "Client–Server Architecture",
                          "Speech Synthesis", "Generative AI", "RAG Pipelines"],
     },
-
     "currently"   :  "Building a Conversational AI Assistant",
     "exploring"   :  ["Large Language Models", "AI Agents", "RAG Pipelines"],
     "signature"   :  "Turning raw data into intelligence. One model at a time.",
 }
+# ✦ ─────────────────────────────────────────────────────────── ✦
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0005,50:f48fb1,100:0d0005&height=1" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:d4849a,100:fdf6ee&height=1" width="50%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0005,100:1a0010&height=52&text=%E2%9C%A6%20%20F%20E%20A%20T%20U%20R%20E%20%20%C2%B7%20%20T%20H%20E%20%20P%20R%20O%20J%20E%20C%20T%20%20%E2%9C%A6&fontSize=14&fontColor=f48fb1&animation=fadeIn" width="58%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20F%20E%20A%20T%20U%20R%20E%20%20%C2%B7%20%20T%20H%20E%20%20P%20R%20O%20J%20E%20C%20T%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
 </div>
 
 <br/>
@@ -114,168 +116,131 @@ profile = {
   ║                                                                     ║
   ║   An emotionally-aware AI assistant that listens, detects           ║
   ║   mood, responds with empathy — and speaks back. Built              ║
-  ║   entirely from scratch using Python and FastAPI on the             ║
-  ║   backend, and HTML · CSS · JavaScript on the frontend.             ║
+  ║   from scratch using Python · FastAPI · HTML · CSS · JS.            ║
   ║                                                                     ║
   ╠═════════════════════════════════════════════════════════════════════╣
-  ║                                                                     ║
-  ║   A R C H I T E C T U R E                                           ║
-  ║   ─────────────────────────────────────────────────────────────     ║
+  ║  ARCHITECTURE                                                       ║
   ║   FRONTEND   HTML · CSS · JavaScript · Web Speech API               ║
-  ║              → Chat UI  ·  Animated character  ·  Voice output      ║
-  ║                                                                     ║
   ║   BACKEND    Python · FastAPI · pyttsx3                             ║
-  ║              → REST API  ·  Mood detection  ·  Response engine      ║
-  ║                                                                     ║
-  ║   ENDPOINTS  GET  /              → Serves the web interface         ║
-  ║              POST /detect-mood   → Processes text, returns          ║
-  ║                                    mood + tailored response (JSON)  ║
-  ║                                                                     ║
+  ║   GET  /              → Web interface                               ║
+  ║   POST /detect-mood   → Mood + response (JSON)                      ║
   ╠═════════════════════════════════════════════════════════════════════╣
-  ║                                                                     ║
-  ║   I N T E L L I G E N C E   L A Y E R  ·  NLP Mood Detection       ║
-  ║   ─────────────────────────────────────────────────────────────     ║
-  ║   sad      →  empathetic, supportive response                       ║
-  ║   happy    →  warm, celebratory response                            ║
-  ║   angry    →  calm, grounding encouragement                         ║
-  ║   neutral  →  open-ended prompt to continue conversation            ║
-  ║                                                                     ║
+  ║  INTELLIGENCE LAYER  ·  NLP Mood Detection                          ║
+  ║   sad → empathetic   happy → celebratory   angry → calming          ║
   ╠═════════════════════════════════════════════════════════════════════╣
-  ║                                                                     ║
-  ║   V O I C E   L A Y E R                                             ║
-  ║   ─────────────────────────────────────────────────────────────     ║
-  ║   pyttsx3         Server-side text-to-speech synthesis              ║
-  ║   Web Speech API  Browser-native voice output                       ║
-  ║                                                                     ║
+  ║  VOICE LAYER                                                        ║
+  ║   pyttsx3  ·  Web Speech API  ·  Browser-native output              ║
   ╠═════════════════════════════════════════════════════════════════════╣
-  ║                                                                     ║
-  ║   S T A C K                                                         ║
-  ║   ─────────────────────────────────────────────────────────────     ║
-  ║   Python  ·  FastAPI  ·  HTML  ·  CSS  ·  JavaScript                ║
-  ║   pyttsx3  ·  Web Speech API  ·  Fetch API  ·  JSON                 ║
-  ║                                                                     ║
-  ║   PROGRESS   ██████████████████████░░░░  80%  IN ACTIVE BUILD       ║
-  ║                                                                     ║
+  ║  PROGRESS   ██████████████████████░░░░  80%  IN ACTIVE BUILD        ║
   ╚═════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d0005?style=flat-square&logo=python&logoColor=f48fb1)
-&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0005?style=flat-square&logo=fastapi&logoColor=ce93d8)
-&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0005?style=flat-square&logo=javascript&logoColor=f48fb1)
-&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-0d0005?style=flat-square&logo=html5&logoColor=ce93d8)
-&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-0d0005?style=flat-square&logo=css3&logoColor=f48fb1)
-&nbsp;
-![NLP](https://img.shields.io/badge/NLP-0d0005?style=flat-square&logo=huggingface&logoColor=ce93d8)
-&nbsp;
-![Voice](https://img.shields.io/badge/Speech_Synthesis-0d0005?style=flat-square&logo=amazonaws&logoColor=f48fb1)
+![Python](https://img.shields.io/badge/Python-fdf6ee?style=flat-square&logo=python&logoColor=d4849a)
+&nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-fdf6ee?style=flat-square&logo=fastapi&logoColor=c9a0b4)
+&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-fdf6ee?style=flat-square&logo=javascript&logoColor=d4849a)
+&nbsp;![HTML](https://img.shields.io/badge/HTML5-fdf6ee?style=flat-square&logo=html5&logoColor=c9a0b4)
+&nbsp;![NLP](https://img.shields.io/badge/NLP-fdf6ee?style=flat-square&logo=huggingface&logoColor=d4849a)
+&nbsp;![Voice](https://img.shields.io/badge/Speech_Synthesis-fdf6ee?style=flat-square&logo=amazonaws&logoColor=c9a0b4)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0005,50:ce93d8,100:0d0005&height=1" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:c9a0b4,100:fdf6ee&height=1" width="50%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0005,100:1a0010&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20W%20A%20R%20D%20R%20O%20B%20E%20%20%E2%9C%A6&fontSize=14&fontColor=f48fb1&animation=fadeIn" width="58%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20W%20A%20R%20D%20R%20O%20B%20E%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch&theme=light&perline=4"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=sklearn,html,css,js&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=sklearn,html,css,js&theme=light&perline=4"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=light&perline=4"/>
 
 <br/><br/>
 
 `✦  F O U N D A T I O N S  ✦`
 
-![Python](https://img.shields.io/badge/Python-0d0005?style=for-the-badge&logo=python&logoColor=f48fb1)
-![SQL](https://img.shields.io/badge/SQL-0d0005?style=for-the-badge&logo=postgresql&logoColor=ce93d8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0005?style=for-the-badge&logo=javascript&logoColor=f48fb1)
-![HTML5](https://img.shields.io/badge/HTML5-0d0005?style=for-the-badge&logo=html5&logoColor=ce93d8)
-![CSS3](https://img.shields.io/badge/CSS3-0d0005?style=for-the-badge&logo=css3&logoColor=f48fb1)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d0005?style=for-the-badge&logo=jupyter&logoColor=ce93d8)
+![Python](https://img.shields.io/badge/Python-fdf6ee?style=for-the-badge&logo=python&logoColor=d4849a)
+![SQL](https://img.shields.io/badge/SQL-fdf6ee?style=for-the-badge&logo=postgresql&logoColor=c9a0b4)
+![JavaScript](https://img.shields.io/badge/JavaScript-fdf6ee?style=for-the-badge&logo=javascript&logoColor=d4849a)
+![HTML5](https://img.shields.io/badge/HTML5-fdf6ee?style=for-the-badge&logo=html5&logoColor=c9a0b4)
+![CSS3](https://img.shields.io/badge/CSS3-fdf6ee?style=for-the-badge&logo=css3&logoColor=d4849a)
 
 <br/>
 
 `✦  A I  ·  M L  ·  D A T A  ✦`
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0005?style=for-the-badge&logo=tensorflow&logoColor=f48fb1)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0005?style=for-the-badge&logo=pytorch&logoColor=ce93d8)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0005?style=for-the-badge&logo=scikitlearn&logoColor=f48fb1)
-![Pandas](https://img.shields.io/badge/Pandas-0d0005?style=for-the-badge&logo=pandas&logoColor=ce93d8)
-![NumPy](https://img.shields.io/badge/NumPy-0d0005?style=for-the-badge&logo=numpy&logoColor=f48fb1)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0005?style=for-the-badge&logo=opencv&logoColor=ce93d8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-fdf6ee?style=for-the-badge&logo=tensorflow&logoColor=d4849a)
+![PyTorch](https://img.shields.io/badge/PyTorch-fdf6ee?style=for-the-badge&logo=pytorch&logoColor=c9a0b4)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-fdf6ee?style=for-the-badge&logo=scikitlearn&logoColor=d4849a)
+![Pandas](https://img.shields.io/badge/Pandas-fdf6ee?style=for-the-badge&logo=pandas&logoColor=c9a0b4)
+![NumPy](https://img.shields.io/badge/NumPy-fdf6ee?style=for-the-badge&logo=numpy&logoColor=d4849a)
+![OpenCV](https://img.shields.io/badge/OpenCV-fdf6ee?style=for-the-badge&logo=opencv&logoColor=c9a0b4)
 
 <br/>
 
 `✦  G E N E R A T I V E  A I  ✦`
 
-![LangChain](https://img.shields.io/badge/LangChain-0d0005?style=for-the-badge&logo=chainlink&logoColor=f48fb1)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0005?style=for-the-badge&logo=huggingface&logoColor=ce93d8)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0005?style=for-the-badge&logo=openai&logoColor=f48fb1)
-![Gemini](https://img.shields.io/badge/Gemini_API-0d0005?style=for-the-badge&logo=google&logoColor=ce93d8)
+![LangChain](https://img.shields.io/badge/LangChain-fdf6ee?style=for-the-badge&logo=chainlink&logoColor=d4849a)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-fdf6ee?style=for-the-badge&logo=huggingface&logoColor=c9a0b4)
+![OpenAI](https://img.shields.io/badge/OpenAI-fdf6ee?style=for-the-badge&logo=openai&logoColor=d4849a)
+![Gemini](https://img.shields.io/badge/Gemini_API-fdf6ee?style=for-the-badge&logo=google&logoColor=c9a0b4)
 
 <br/>
 
 `✦  A T E L I E R  ✦`
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0005?style=for-the-badge&logo=fastapi&logoColor=f48fb1)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d0005?style=for-the-badge&logo=streamlit&logoColor=ce93d8)
-![Git](https://img.shields.io/badge/Git-0d0005?style=for-the-badge&logo=git&logoColor=f48fb1)
-![GitHub](https://img.shields.io/badge/GitHub-0d0005?style=for-the-badge&logo=github&logoColor=ce93d8)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0005?style=for-the-badge&logo=visualstudiocode&logoColor=f48fb1)
-![Colab](https://img.shields.io/badge/Colab-0d0005?style=for-the-badge&logo=googlecolab&logoColor=ce93d8)
-![Kaggle](https://img.shields.io/badge/Kaggle-0d0005?style=for-the-badge&logo=kaggle&logoColor=f48fb1)
+![FastAPI](https://img.shields.io/badge/FastAPI-fdf6ee?style=for-the-badge&logo=fastapi&logoColor=d4849a)
+![Streamlit](https://img.shields.io/badge/Streamlit-fdf6ee?style=for-the-badge&logo=streamlit&logoColor=c9a0b4)
+![Git](https://img.shields.io/badge/Git-fdf6ee?style=for-the-badge&logo=git&logoColor=d4849a)
+![GitHub](https://img.shields.io/badge/GitHub-fdf6ee?style=for-the-badge&logo=github&logoColor=c9a0b4)
+![VS Code](https://img.shields.io/badge/VS_Code-fdf6ee?style=for-the-badge&logo=visualstudiocode&logoColor=d4849a)
+![Colab](https://img.shields.io/badge/Colab-fdf6ee?style=for-the-badge&logo=googlecolab&logoColor=c9a0b4)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0005,50:f48fb1,100:0d0005&height=1" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:d4849a,100:fdf6ee&height=1" width="50%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0005,100:1a0010&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20N%20U%20M%20B%20E%20R%20S%20%20%E2%9C%A6&fontSize=14&fontColor=f48fb1&animation=fadeIn" width="58%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20N%20U%20M%20B%20E%20R%20S%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nandhika0422&show_icons=true&theme=transparent&bg_color=0d0005&border_color=f48fb1&title_color=f48fb1&icon_color=ce93d8&text_color=fce4ec&include_all_commits=true&count_private=true" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nandhika0422&show_icons=true&theme=transparent&bg_color=fdf6ee&border_color=f2c4ce&title_color=d4849a&icon_color=c9a0b4&text_color=3d2b35&include_all_commits=true&count_private=true" height="185"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhika0422&layout=compact&theme=transparent&bg_color=0d0005&border_color=ce93d8&title_color=ce93d8&text_color=fce4ec&langs_count=8" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhika0422&layout=compact&theme=transparent&bg_color=fdf6ee&border_color=c9a0b4&title_color=c9a0b4&text_color=3d2b35&langs_count=8" height="185"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=nandhika0422&theme=transparent&background=0d0005&border=f48fb1&stroke=f48fb1&ring=ce93d8&fire=f48fb1&currStreakNum=fce4ec&sideNums=ce93d8&currStreakLabel=f48fb1&sideLabels=f48fb1&dates=886677" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=nandhika0422&theme=transparent&background=fdf6ee&border=f2c4ce&stroke=f2c4ce&ring=c9a0b4&fire=d4849a&currStreakNum=3d2b35&sideNums=c9a0b4&currStreakLabel=d4849a&sideLabels=d4849a&dates=886677" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nandhika0422&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nandhika0422&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhika0422&bg_color=0d0005&color=f48fb1&line=ce93d8&point=fce4ec&area=true&area_color=2d0020&hide_border=false&border_color=f48fb1&radius=4" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhika0422&bg_color=fdf6ee&color=d4849a&line=c9a0b4&point=3d2b35&area=true&area_color=f2c4ce&hide_border=false&border_color=f2c4ce&radius=4" width="95%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0005,50:ce93d8,100:0d0005&height=1" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:c9a0b4,100:fdf6ee&height=1" width="50%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0005,100:1a0010&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20R%20U%20N%20W%20A%20Y%20%20%E2%9C%A6&fontSize=14&fontColor=f48fb1&animation=fadeIn" width="58%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20R%20U%20N%20W%20A%20Y%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
 
 <br/><br/>
 
@@ -287,28 +252,27 @@ profile = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0005,50:f48fb1,100:0d0005&height=1" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:d4849a,100:fdf6ee&height=1" width="50%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0005,100:1a0010&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20M%20A%20S%20T%20H%20E%20A%20D%20%20%E2%9C%A6&fontSize=14&fontColor=f48fb1&animation=fadeIn" width="58%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20M%20A%20S%20T%20H%20E%20A%20D%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0005?style=for-the-badge&logo=github&logoColor=f48fb1)](https://github.com/nandhika0422)
+[![GitHub](https://img.shields.io/badge/GitHub-fdf6ee?style=for-the-badge&logo=github&logoColor=d4849a)](https://github.com/nandhika0422)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0d0005?style=for-the-badge&logo=gmail&logoColor=ce93d8)](mailto:nandhikasri0422@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-fdf6ee?style=for-the-badge&logo=gmail&logoColor=c9a0b4)](mailto:nandhikasri0422@gmail.com)
 &nbsp;&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-0d0005?style=for-the-badge&logo=kaggle&logoColor=f48fb1)](https://kaggle.com/nandhika0422)
 
 <br/><br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=nandhika0422&style=flat-square&color=f48fb1&labelColor=0d0005&label=Readers)
+![Visitors](https://komarev.com/ghpvc/?username=nandhika0422&style=flat-square&color=d4849a&labelColor=fdf6ee&label=Readers)
 &nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/nandhika0422?style=flat-square&color=ce93d8&labelColor=0d0005&label=Subscribers)
+![Followers](https://img.shields.io/github/followers/nandhika0422?style=flat-square&color=c9a0b4&labelColor=fdf6ee&label=Subscribers)
 
 <br/><br/>
 
@@ -319,6 +283,6 @@ profile = {
                                           nandhika0422
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0005,25:1a0010,55:2d0020,80:1a0010,100:0d0005&height=200&section=footer&text=nandhika0422&fontSize=24&fontColor=f48fb1&fontAlignY=72&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdf6ee,25:fdf0e8,55:f9eef4,80:fce4ec,100:fdf6ee&height=200&section=footer&text=nandhika0422&fontSize=24&fontColor=d4849a&fontAlignY=72&animation=fadeIn" width="100%"/>
 
 </div>
