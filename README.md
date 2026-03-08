@@ -35,11 +35,13 @@
 
 ```python
 #!/usr/bin/env python3
+
 # ╔══════════════════════════════════════════════════════════╗
-# ║           NANDHIKA.py  —  SYSTEM INITIALIZING...  ⚡    ║
+# ║        NANDHIKA.py  —  SYSTEM INITIALIZING...  ⚡       ║
 # ╚══════════════════════════════════════════════════════════╝
 
 class Nandhika:
+
     def __init__(self):
         self.name        = "Nandhika"
         self.alias       = "nandhika0422"
@@ -58,12 +60,17 @@ class Nandhika:
         print("  Let's build something extraordinary together. ⚡")
         print("━" * 58)
 
+
 me = Nandhika()
 me.say_hi()
 
-# OUTPUT ──────────────────────────────────────────────────────
-#   Welcome to my digital universe.
-#   Let's build something extraordinary together. ⚡
+# ── OUTPUT ────────────────────────────────────────────────────
+#
+#   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#     Welcome to my digital universe.
+#     Let's build something extraordinary together. ⚡
+#   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#
 # ─────────────────────────────────────────────────────────────
 ```
 
@@ -254,9 +261,8 @@ me.say_hi()
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=bf00ff)](https://github.com/nandhika0422)
-[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=ff6600)](mailto:YOUR-EMAIL-HERE)
+[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=ff6600)](mailto:nandhikasri0422@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0D0D0D?style=for-the-badge&logo=kaggle&logoColor=00f5ff)](https://kaggle.com/nandhika0422)
 
 <br/>
@@ -271,11 +277,11 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- Snake Animation -->
+<!-- Snake Animation — uses Platane's live hosted snake (always works) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandhika0422/nandhika0422/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandhika0422/nandhika0422/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/nandhika0422/nandhika0422/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 <br/>
