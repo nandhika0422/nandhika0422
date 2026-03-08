@@ -4,8 +4,464 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>NANDHIKA — The AI Issue</title>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=IM+Fell+English:ital@0;1&family=Cinzel:wght@400;500;600&display=swap" rel="stylesheet"/>
-<style>
+<div align="center">
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              BLOOMING HEADER               -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:fdf0e8,25:fdf6ee,50:fceef4,75:fdf6ee,100:fdf0e8&height=320&section=header&text=NANDHIKA&fontSize=96&fontColor=3d2b35&fontAlignY=44&desc=%E2%80%94%E2%80%84%20A%20I%20%C2%B7%20M%20L%20%C2%B7%20P%20Y%20T%20H%20O%20N%20%E2%80%84%E2%80%94&descSize=17&descColor=d4849a&descAlignY=63&animation=fadeIn&stroke=d4849a&strokeWidth=1" width="100%"/>
+
+<!-- Petal rule -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,20:f2c4ce,50:d4849a,80:f2c4ce,100:fdf6ee&height=2" width="100%"/>
+
+<br/>
+
+`✦  VOL. I  ·  2026  ·  BENGALURU  ·  THE AI ISSUE  ✦`
+
+<br/>
+
+![](https://img.shields.io/badge/✦_DEGREE-BCA-d4849a?style=flat-square&labelColor=fdf0e8)
+&nbsp;
+![](https://img.shields.io/badge/✦_COURSE-Data_Science-c9a0b4?style=flat-square&labelColor=fdf0e8)
+&nbsp;
+![](https://img.shields.io/badge/✦_BUILDING-AI_Assistant-d4849a?style=flat-square&labelColor=fdf0e8)
+&nbsp;
+![](https://img.shields.io/badge/✦_BASED_IN-India_🇮🇳-c9a0b4?style=flat-square&labelColor=fdf0e8)
+
+<br/>
+
+<!-- Blooming roses — SVG renders on GitHub -->
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .sway { animation: sway 5s ease-in-out infinite; transform-origin: 80px 160px; }
+      .sway2 { animation: sway 6s ease-in-out infinite reverse; transform-origin: 780px 160px; }
+      .bloom { animation: bloom 2s ease-out forwards; }
+      .bloom2 { animation: bloom 2.4s ease-out forwards 0.3s; opacity:0; }
+      .bloom3 { animation: bloom 2.8s ease-out forwards 0.6s; opacity:0; }
+      @keyframes sway {
+        0%,100% { transform: rotate(-3deg); }
+        50%      { transform: rotate(3deg); }
+      }
+      @keyframes bloom {
+        0%   { opacity:0; transform: scale(0.2); }
+        70%  { opacity:1; transform: scale(1.05); }
+        100% { opacity:1; transform: scale(1); }
+      }
+    </style>
+  </defs>
+
+  <!-- LEFT BOUQUET -->
+  <g class="sway">
+    <!-- stems -->
+    <path d="M80 160 Q65 130 55 100 Q45 70 60 50" stroke="#b5c4b1" stroke-width="2" fill="none"/>
+    <path d="M80 160 Q85 125 95 95 Q105 65 90 40" stroke="#b5c4b1" stroke-width="2" fill="none"/>
+    <path d="M80 160 Q70 135 60 115 Q50 95 58 78" stroke="#b5c4b1" stroke-width="2" fill="none"/>
+    <path d="M80 160 Q90 130 100 110 Q110 90 104 72" stroke="#b5c4b1" stroke-width="2" fill="none"/>
+    <!-- leaves -->
+    <ellipse cx="52" cy="88" rx="14" ry="6" fill="#b5c4b1" opacity="0.7" transform="rotate(-45 52 88)"/>
+    <ellipse cx="98" cy="75" rx="14" ry="6" fill="#b5c4b1" opacity="0.7" transform="rotate(35 98 75)"/>
+    <ellipse cx="62" cy="120" rx="11" ry="5" fill="#b5c4b1" opacity="0.6" transform="rotate(-30 62 120)"/>
+    <!-- Rose 1 — blush -->
+    <g class="bloom" transform="translate(60,48)">
+      <circle r="20" fill="#f9d5dc"/>
+      <circle r="14" fill="#f2b8c4"/>
+      <circle r="9"  fill="#e8909c"/>
+      <circle r="4"  fill="#d4849a"/>
+      <ellipse rx="12" ry="8" fill="#f9d5dc" opacity="0.9" transform="rotate(-30) translate(-13,-7)"/>
+      <ellipse rx="12" ry="8" fill="#f9d5dc" opacity="0.9" transform="rotate(30) translate(13,-7)"/>
+      <ellipse rx="10" ry="8" fill="#f9d5dc" opacity="0.9" transform="translate(0,-17)"/>
+      <ellipse rx="12" ry="8" fill="#f2b8c4" opacity="0.85" transform="rotate(20) translate(-14,7)"/>
+      <ellipse rx="12" ry="8" fill="#f2b8c4" opacity="0.85" transform="rotate(-20) translate(14,7)"/>
+    </g>
+    <!-- Rose 2 — peach -->
+    <g class="bloom2" transform="translate(91,38)">
+      <circle r="18" fill="#fce8d0"/>
+      <circle r="12" fill="#f9d5dc"/>
+      <circle r="7"  fill="#f2b8c4"/>
+      <circle r="3"  fill="#e8909c"/>
+      <ellipse rx="11" ry="7" fill="#fce8d0" opacity="0.9" transform="rotate(-30) translate(-12,-6)"/>
+      <ellipse rx="11" ry="7" fill="#fce8d0" opacity="0.9" transform="rotate(30) translate(12,-6)"/>
+      <ellipse rx="9"  ry="7" fill="#fce8d0" opacity="0.9" transform="translate(0,-15)"/>
+      <ellipse rx="11" ry="7" fill="#f9d5dc" opacity="0.85" transform="rotate(20) translate(-12,6)"/>
+      <ellipse rx="11" ry="7" fill="#f9d5dc" opacity="0.85" transform="rotate(-20) translate(12,6)"/>
+    </g>
+    <!-- Rose 3 — small dusty -->
+    <g class="bloom3" transform="translate(60,115)">
+      <circle r="13" fill="#f9d5dc"/>
+      <circle r="8"  fill="#e8909c"/>
+      <circle r="4"  fill="#d4849a"/>
+      <ellipse rx="8" ry="6" fill="#f9d5dc" opacity="0.9" transform="rotate(-30) translate(-9,-5)"/>
+      <ellipse rx="8" ry="6" fill="#f9d5dc" opacity="0.9" transform="rotate(30) translate(9,-5)"/>
+      <ellipse rx="7" ry="6" fill="#f9d5dc" opacity="0.9" transform="translate(0,-12)"/>
+    </g>
+    <!-- bud -->
+    <g transform="translate(105,70)">
+      <ellipse rx="6" ry="10" fill="#f2b8c4"/>
+      <ellipse rx="4" ry="7" fill="#e8909c" opacity="0.7" transform="rotate(-15) translate(-4,2)"/>
+      <ellipse rx="4" ry="7" fill="#e8909c" opacity="0.7" transform="rotate(15) translate(4,2)"/>
+      <ellipse rx="4" ry="6" fill="#b5c4b1" opacity="0.9" transform="rotate(-20) translate(-3,-5)"/>
+      <ellipse rx="4" ry="6" fill="#b5c4b1" opacity="0.9" transform="rotate(20) translate(3,-5)"/>
+    </g>
+    <!-- baby's breath -->
+    <circle cx="45" cy="65" r="2.5" fill="#fce4ec" opacity="0.9"/>
+    <circle cx="50" cy="58" r="2"   fill="#fce4ec" opacity="0.9"/>
+    <circle cx="40" cy="60" r="2"   fill="#fce4ec" opacity="0.8"/>
+    <circle cx="110" cy="55" r="2.5" fill="#fce4ec" opacity="0.9"/>
+    <circle cx="116" cy="48" r="2"   fill="#fce4ec" opacity="0.9"/>
+    <circle cx="72" cy="128" r="2"  fill="#fce4ec" opacity="0.8"/>
+  </g>
+
+  <!-- CENTRE ORNAMENT -->
+  <text x="430" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#c9a0b4" opacity="0.6">✦</text>
+  <text x="390" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="14" fill="#d4849a" opacity="0.4">✦</text>
+  <text x="470" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="14" fill="#d4849a" opacity="0.4">✦</text>
+
+  <!-- RIGHT BOUQUET (mirrored) -->
+  <g class="sway2">
+    <!-- stems -->
+    <path d="M780 160 Q795 130 805 100 Q815 70 800 50" stroke="#b5c4b1" stroke-width="2" fill="none"/>
+    <path d="M780 160 Q775 125 765 95 Q755 65 770 40" stroke="#b5c4b1" stroke-width="2" fill="none"/>
+    <path d="M780 160 Q790 135 800 115 Q810 95 802 78" stroke="#b5c4b1" stroke-width="2" fill="none"/>
+    <path d="M780 160 Q770 130 760 110 Q750 90 756 72" stroke="#b5c4b1" stroke-width="2" fill="none"/>
+    <!-- leaves -->
+    <ellipse cx="808" cy="88" rx="14" ry="6" fill="#b5c4b1" opacity="0.7" transform="rotate(45 808 88)"/>
+    <ellipse cx="762" cy="75" rx="14" ry="6" fill="#b5c4b1" opacity="0.7" transform="rotate(-35 762 75)"/>
+    <ellipse cx="798" cy="120" rx="11" ry="5" fill="#b5c4b1" opacity="0.6" transform="rotate(30 798 120)"/>
+    <!-- Rose 1 -->
+    <g class="bloom" transform="translate(800,48)">
+      <circle r="20" fill="#fce8d0"/>
+      <circle r="14" fill="#f9d5dc"/>
+      <circle r="9"  fill="#f2b8c4"/>
+      <circle r="4"  fill="#e8909c"/>
+      <ellipse rx="12" ry="8" fill="#fce8d0" opacity="0.9" transform="rotate(-30) translate(-13,-7)"/>
+      <ellipse rx="12" ry="8" fill="#fce8d0" opacity="0.9" transform="rotate(30) translate(13,-7)"/>
+      <ellipse rx="10" ry="8" fill="#fce8d0" opacity="0.9" transform="translate(0,-17)"/>
+      <ellipse rx="12" ry="8" fill="#f9d5dc" opacity="0.85" transform="rotate(20) translate(-14,7)"/>
+      <ellipse rx="12" ry="8" fill="#f9d5dc" opacity="0.85" transform="rotate(-20) translate(14,7)"/>
+    </g>
+    <!-- Rose 2 -->
+    <g class="bloom2" transform="translate(769,38)">
+      <circle r="18" fill="#f9d5dc"/>
+      <circle r="12" fill="#f2b8c4"/>
+      <circle r="7"  fill="#e8909c"/>
+      <circle r="3"  fill="#d4849a"/>
+      <ellipse rx="11" ry="7" fill="#f9d5dc" opacity="0.9" transform="rotate(-30) translate(-12,-6)"/>
+      <ellipse rx="11" ry="7" fill="#f9d5dc" opacity="0.9" transform="rotate(30) translate(12,-6)"/>
+      <ellipse rx="9"  ry="7" fill="#f9d5dc" opacity="0.9" transform="translate(0,-15)"/>
+      <ellipse rx="11" ry="7" fill="#f2b8c4" opacity="0.85" transform="rotate(20) translate(-12,6)"/>
+      <ellipse rx="11" ry="7" fill="#f2b8c4" opacity="0.85" transform="rotate(-20) translate(12,6)"/>
+    </g>
+    <!-- Rose 3 -->
+    <g class="bloom3" transform="translate(800,115)">
+      <circle r="13" fill="#fce8d0"/>
+      <circle r="8"  fill="#f9d5dc"/>
+      <circle r="4"  fill="#f2b8c4"/>
+      <ellipse rx="8" ry="6" fill="#fce8d0" opacity="0.9" transform="rotate(-30) translate(-9,-5)"/>
+      <ellipse rx="8" ry="6" fill="#fce8d0" opacity="0.9" transform="rotate(30) translate(9,-5)"/>
+      <ellipse rx="7" ry="6" fill="#fce8d0" opacity="0.9" transform="translate(0,-12)"/>
+    </g>
+    <!-- bud -->
+    <g transform="translate(755,70)">
+      <ellipse rx="6" ry="10" fill="#f2b8c4"/>
+      <ellipse rx="4" ry="7" fill="#e8909c" opacity="0.7" transform="rotate(-15) translate(-4,2)"/>
+      <ellipse rx="4" ry="7" fill="#e8909c" opacity="0.7" transform="rotate(15) translate(4,2)"/>
+      <ellipse rx="4" ry="6" fill="#b5c4b1" opacity="0.9" transform="rotate(-20) translate(-3,-5)"/>
+      <ellipse rx="4" ry="6" fill="#b5c4b1" opacity="0.9" transform="rotate(20) translate(3,-5)"/>
+    </g>
+    <!-- baby's breath -->
+    <circle cx="815" cy="65" r="2.5" fill="#fce4ec" opacity="0.9"/>
+    <circle cx="810" cy="58" r="2"   fill="#fce4ec" opacity="0.9"/>
+    <circle cx="820" cy="60" r="2"   fill="#fce4ec" opacity="0.8"/>
+    <circle cx="750" cy="55" r="2.5" fill="#fce4ec" opacity="0.9"/>
+    <circle cx="744" cy="48" r="2"   fill="#fce4ec" opacity="0.9"/>
+    <circle cx="788" cy="128" r="2"  fill="#fce4ec" opacity="0.8"/>
+  </g>
+</svg>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:f2c4ce,100:fdf6ee&height=1" width="40%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20E%20D%20I%20T%20O%20R%20%27%20S%20%20L%20E%20T%20T%20E%20R%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
+</div>
+
+<br/>
+
+```
+  ┌───────────────────────────────────────────────────────────────────┐
+  │                                                                   │
+  │   ✦                                                           ✦   │
+  │                                                                   │
+  │   She arrived at the intersection of code and intelligence —      │
+  │   a developer who treats every model like a masterpiece           │
+  │   and every dataset like a carefully curated mood board.          │
+  │                                                                   │
+  │   A BCA student pursuing Data Science, she builds systems         │
+  │   that don't merely process data — they understand it.            │
+  │   They feel it.                                                   │
+  │                                                                   │
+  │   This season: an AI that listens, thinks, speaks, and            │
+  │   responds with empathy. Draped in Python. Finished in            │
+  │   Generative AI. Accessorised with Neural Networks.               │
+  │                                                                   │
+  │   ✦                                           — The Edit   ✦      │
+  │                                                                   │
+  └───────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:c9a0b4,100:fdf6ee&height=1" width="50%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20P%20R%20O%20F%20I%20L%20E%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
+</div>
+
+<br/>
+
+```python
+# ✦ ─────────────────────────────────────────────────────────── ✦
+#     N A N D H I K A   ·   nandhika0422
+# ✦ ─────────────────────────────────────────────────────────── ✦
+
+profile = {
+    "name"        :  "Nandhika",
+    "handle"      :  "nandhika0422",
+    "roles"       :  ["AI Developer", "ML Engineer", "Python Developer"],
+    "degree"      :  "BCA — Bachelor of Computer Applications",
+    "course"      :  "Data Science",
+    "skills"      :  {
+        "languages"   : ["Python", "SQL", "JavaScript", "HTML", "CSS"],
+        "ai_ml"       : ["Machine Learning", "NLP", "Mood Detection", "LLMs"],
+        "frameworks"  : ["FastAPI", "LangChain", "HuggingFace", "Scikit-Learn"],
+        "libraries"   : ["TensorFlow", "PyTorch", "Pandas", "NumPy", "OpenCV"],
+        "tools"       : ["VS Code", "Jupyter", "Google Colab", "Git", "Streamlit"],
+        "concepts"    : ["REST APIs", "Client–Server Architecture",
+                         "Speech Synthesis", "Generative AI", "RAG Pipelines"],
+    },
+    "currently"   :  "Building a Conversational AI Assistant",
+    "exploring"   :  ["Large Language Models", "AI Agents", "RAG Pipelines"],
+    "signature"   :  "Turning raw data into intelligence. One model at a time.",
+}
+# ✦ ─────────────────────────────────────────────────────────── ✦
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:d4849a,100:fdf6ee&height=1" width="50%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20F%20E%20A%20T%20U%20R%20E%20%20%C2%B7%20%20T%20H%20E%20%20P%20R%20O%20J%20E%20C%20T%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
+</div>
+
+<br/>
+
+```
+  ╔═════════════════════════════════════════════════════════════════════╗
+  ║                                                                     ║
+  ║   ✦   C O N V E R S A T I O N A L   A I   A S S I S T A N T   ✦   ║
+  ║                                                                     ║
+  ║   ─────────────────────────────────────────────────────────────     ║
+  ║   " The most intelligent thing she has ever built. "                ║
+  ║   ─────────────────────────────────────────────────────────────     ║
+  ║                                                                     ║
+  ║   An emotionally-aware AI assistant that listens, detects           ║
+  ║   mood, responds with empathy — and speaks back. Built              ║
+  ║   from scratch using Python · FastAPI · HTML · CSS · JS.            ║
+  ║                                                                     ║
+  ╠═════════════════════════════════════════════════════════════════════╣
+  ║  A R C H I T E C T U R E                                           ║
+  ║   FRONTEND   HTML · CSS · JavaScript · Web Speech API               ║
+  ║   BACKEND    Python · FastAPI · pyttsx3                             ║
+  ║   GET  /              → Web interface                               ║
+  ║   POST /detect-mood   → Mood + response (JSON)                      ║
+  ╠═════════════════════════════════════════════════════════════════════╣
+  ║  I N T E L L I G E N C E   L A Y E R  ·  NLP Mood Detection        ║
+  ║   sad → empathetic   happy → celebratory   angry → calming          ║
+  ╠═════════════════════════════════════════════════════════════════════╣
+  ║  V O I C E   L A Y E R                                              ║
+  ║   pyttsx3  ·  Web Speech API  ·  Browser-native output              ║
+  ╠═════════════════════════════════════════════════════════════════════╣
+  ║  PROGRESS   ██████████████████████░░░░  80%  IN ACTIVE BUILD        ║
+  ╚═════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-fdf6ee?style=flat-square&logo=python&logoColor=d4849a)
+&nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-fdf6ee?style=flat-square&logo=fastapi&logoColor=c9a0b4)
+&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-fdf6ee?style=flat-square&logo=javascript&logoColor=d4849a)
+&nbsp;![HTML](https://img.shields.io/badge/HTML5-fdf6ee?style=flat-square&logo=html5&logoColor=c9a0b4)
+&nbsp;![NLP](https://img.shields.io/badge/NLP-fdf6ee?style=flat-square&logo=huggingface&logoColor=d4849a)
+&nbsp;![Voice](https://img.shields.io/badge/Speech_Synthesis-fdf6ee?style=flat-square&logo=amazonaws&logoColor=c9a0b4)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:c9a0b4,100:fdf6ee&height=1" width="50%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20W%20A%20R%20D%20R%20O%20B%20E%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
+
+<br/><br/>
+
+`✦  F O U N D A T I O N S  ✦`
+
+![Python](https://img.shields.io/badge/Python-fdf6ee?style=for-the-badge&logo=python&logoColor=d4849a)
+![SQL](https://img.shields.io/badge/SQL-fdf6ee?style=for-the-badge&logo=postgresql&logoColor=c9a0b4)
+![JavaScript](https://img.shields.io/badge/JavaScript-fdf6ee?style=for-the-badge&logo=javascript&logoColor=d4849a)
+![HTML5](https://img.shields.io/badge/HTML5-fdf6ee?style=for-the-badge&logo=html5&logoColor=c9a0b4)
+![CSS3](https://img.shields.io/badge/CSS3-fdf6ee?style=for-the-badge&logo=css3&logoColor=d4849a)
+
+<br/>
+
+`✦  A I  ·  M L  ·  D A T A  ✦`
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-fdf6ee?style=for-the-badge&logo=tensorflow&logoColor=d4849a)
+![PyTorch](https://img.shields.io/badge/PyTorch-fdf6ee?style=for-the-badge&logo=pytorch&logoColor=c9a0b4)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-fdf6ee?style=for-the-badge&logo=scikitlearn&logoColor=d4849a)
+![Pandas](https://img.shields.io/badge/Pandas-fdf6ee?style=for-the-badge&logo=pandas&logoColor=c9a0b4)
+![NumPy](https://img.shields.io/badge/NumPy-fdf6ee?style=for-the-badge&logo=numpy&logoColor=d4849a)
+![OpenCV](https://img.shields.io/badge/OpenCV-fdf6ee?style=for-the-badge&logo=opencv&logoColor=c9a0b4)
+
+<br/>
+
+`✦  G E N E R A T I V E  A I  ✦`
+
+![LangChain](https://img.shields.io/badge/LangChain-fdf6ee?style=for-the-badge&logo=chainlink&logoColor=d4849a)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-fdf6ee?style=for-the-badge&logo=huggingface&logoColor=c9a0b4)
+![OpenAI](https://img.shields.io/badge/OpenAI-fdf6ee?style=for-the-badge&logo=openai&logoColor=d4849a)
+![Gemini](https://img.shields.io/badge/Gemini_API-fdf6ee?style=for-the-badge&logo=google&logoColor=c9a0b4)
+
+<br/>
+
+`✦  A T E L I E R  ✦`
+
+![FastAPI](https://img.shields.io/badge/FastAPI-fdf6ee?style=for-the-badge&logo=fastapi&logoColor=d4849a)
+![Streamlit](https://img.shields.io/badge/Streamlit-fdf6ee?style=for-the-badge&logo=streamlit&logoColor=c9a0b4)
+![Git](https://img.shields.io/badge/Git-fdf6ee?style=for-the-badge&logo=git&logoColor=d4849a)
+![GitHub](https://img.shields.io/badge/GitHub-fdf6ee?style=for-the-badge&logo=github&logoColor=c9a0b4)
+![VS Code](https://img.shields.io/badge/VS_Code-fdf6ee?style=for-the-badge&logo=visualstudiocode&logoColor=d4849a)
+![Colab](https://img.shields.io/badge/Colab-fdf6ee?style=for-the-badge&logo=googlecolab&logoColor=c9a0b4)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:d4849a,100:fdf6ee&height=1" width="50%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20N%20U%20M%20B%20E%20R%20S%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nandhika0422&show_icons=true&theme=transparent&bg_color=fdf6ee&border_color=f2c4ce&title_color=d4849a&icon_color=c9a0b4&text_color=3d2b35&include_all_commits=true&count_private=true" height="185"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhika0422&layout=compact&theme=transparent&bg_color=fdf6ee&border_color=c9a0b4&title_color=c9a0b4&text_color=3d2b35&langs_count=8" height="185"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=nandhika0422&theme=transparent&background=fdf6ee&border=f2c4ce&stroke=f2c4ce&ring=c9a0b4&fire=d4849a&currStreakNum=3d2b35&sideNums=c9a0b4&currStreakLabel=d4849a&sideLabels=d4849a&dates=886677" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nandhika0422&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhika0422&bg_color=fdf6ee&color=d4849a&line=c9a0b4&point=3d2b35&area=true&area_color=f2c4ce&hide_border=false&border_color=f2c4ce&radius=4" width="95%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:c9a0b4,100:fdf6ee&height=1" width="50%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20R%20U%20N%20W%20A%20Y%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution runway" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<!-- Bottom bouquet divider -->
+<svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bsway { animation: bsway 5s ease-in-out infinite; transform-origin: 430px 80px; }
+      @keyframes bsway { 0%,100%{transform:rotate(-2deg)} 50%{transform:rotate(2deg)} }
+    </style>
+  </defs>
+  <g class="bsway">
+    <path d="M340 80 Q355 55 370 35 Q385 15 400 10" stroke="#b5c4b1" stroke-width="1.5" fill="none"/>
+    <path d="M380 80 Q385 55 390 35 Q395 15 405 8"  stroke="#b5c4b1" stroke-width="1.5" fill="none"/>
+    <path d="M420 80 Q425 55 430 35 Q435 15 440 8"  stroke="#b5c4b1" stroke-width="1.5" fill="none"/>
+    <path d="M460 80 Q455 55 450 35 Q445 15 435 10" stroke="#b5c4b1" stroke-width="1.5" fill="none"/>
+    <path d="M500 80 Q485 55 470 35 Q455 15 445 10" stroke="#b5c4b1" stroke-width="1.5" fill="none"/>
+    <ellipse cx="385" cy="30" rx="10" ry="4" fill="#b5c4b1" opacity="0.6" transform="rotate(-40 385 30)"/>
+    <ellipse cx="445" cy="28" rx="10" ry="4" fill="#b5c4b1" opacity="0.6" transform="rotate(40 445 28)"/>
+    <g transform="translate(400,9)"><circle r="14" fill="#f9d5dc"/><circle r="9" fill="#f2b8c4"/><circle r="5" fill="#e8909c"/><circle r="2.5" fill="#d4849a"/><ellipse rx="9" ry="6" fill="#f9d5dc" opacity="0.9" transform="rotate(-30) translate(-10,-5)"/><ellipse rx="9" ry="6" fill="#f9d5dc" opacity="0.9" transform="rotate(30) translate(10,-5)"/><ellipse rx="8" ry="6" fill="#f9d5dc" opacity="0.9" transform="translate(0,-13)"/></g>
+    <g transform="translate(430,7)"><circle r="12" fill="#fce8d0"/><circle r="8" fill="#f9d5dc"/><circle r="4" fill="#f2b8c4"/><circle r="2" fill="#e8909c"/><ellipse rx="8" ry="5" fill="#fce8d0" opacity="0.9" transform="rotate(-30) translate(-9,-4)"/><ellipse rx="8" ry="5" fill="#fce8d0" opacity="0.9" transform="rotate(30) translate(9,-4)"/><ellipse rx="7" ry="5" fill="#fce8d0" opacity="0.9" transform="translate(0,-11)"/></g>
+    <g transform="translate(447,10)"><circle r="9" fill="#f9d5dc"/><circle r="6" fill="#e8909c"/><circle r="3" fill="#d4849a"/><ellipse rx="6" ry="4" fill="#f9d5dc" opacity="0.9" transform="rotate(-30) translate(-7,-3)"/><ellipse rx="6" ry="4" fill="#f9d5dc" opacity="0.9" transform="rotate(30) translate(7,-3)"/></g>
+    <circle cx="370" cy="22" r="2" fill="#fce4ec" opacity="0.8"/>
+    <circle cx="465" cy="20" r="2" fill="#fce4ec" opacity="0.8"/>
+    <circle cx="415" cy="26" r="1.5" fill="#fce4ec" opacity="0.8"/>
+  </g>
+</svg>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fdf6ee,50:d4849a,100:fdf6ee&height=1" width="50%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fdf6ee,100:fdf0e8&height=52&text=%E2%9C%A6%20%20T%20H%20E%20%20M%20A%20S%20T%20H%20E%20A%20D%20%20%E2%9C%A6&fontSize=14&fontColor=d4849a&animation=fadeIn" width="58%"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-fdf6ee?style=for-the-badge&logo=github&logoColor=d4849a)](https://github.com/nandhika0422)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-fdf6ee?style=for-the-badge&logo=gmail&logoColor=c9a0b4)](mailto:nandhikasri0422@gmail.com)
+
+<br/><br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=nandhika0422&style=flat-square&color=d4849a&labelColor=fdf6ee&label=Readers)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/nandhika0422?style=flat-square&color=c9a0b4&labelColor=fdf6ee&label=Subscribers)
+
+<br/><br/>
+
+```
+  ✦ ───────────────────────────────────────────────────── ✦
+    " She doesn't follow the algorithm. She writes it. "
+  ✦ ───────────────────────────────────────────────────── ✦
+                                          nandhika0422
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdf6ee,25:fdf0e8,55:fceef4,80:fce4ec,100:fdf6ee&height=200&section=footer&text=nandhika0422&fontSize=24&fontColor=d4849a&fontAlignY=72&animation=fadeIn" width="100%"/>
+
+</div><style>
   :root {
     --cream:    #fdf6ee;
     --blush:    #f2c4ce;
