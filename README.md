@@ -17,13 +17,8 @@
 
 <br/><br/>
 
-<!-- Coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="480" height="270"/>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- Animated Neon Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:bf00ff&height=4&section=header" width="100%"/>
 
 </div>
 
@@ -75,18 +70,18 @@ me.say_hi()
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+
+<!-- Animated Neon Bar -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00f5ff&height=4&section=header" width="100%"/>
 
 ---
 
-<div align="center">
-
+<!-- TECH STACK -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=9999&color=00f5ff&center=true&vCenter=true&width=400&lines=⚡+%3C+TECH+STACK+%2F%3E+⚡" />
 
 <br/>
 
-<!-- Skill Icons Animated -->
+<!-- Animated Skill Icons -->
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=4" />
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark&perline=4" />
@@ -132,18 +127,13 @@ me.say_hi()
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D0D0D?style=for-the-badge&logo=streamlit&logoColor=00f5ff)
 ![Kaggle](https://img.shields.io/badge/Kaggle-0D0D0D?style=for-the-badge&logo=kaggle&logoColor=00f5ff)
 
-</div>
-
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:bf00ff&height=4&section=header" width="100%"/>
 
 ---
 
-<div align="center">
-
+<!-- FEATURED PROJECT -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=9999&color=bf00ff&center=true&vCenter=true&width=450&lines=🔮+%3C+FEATURED+PROJECT+%2F%3E+🔮" />
 
 <br/>
@@ -167,7 +157,7 @@ me.say_hi()
 └─────────────────────────────────────────────────────────────┘
 ```
 
-> An AI assistant powered by **Generative AI** and **Machine Learning** —  
+> An AI assistant powered by **Generative AI** and **Machine Learning** —
 > built to understand, reason, and respond like a true digital intelligence. 🔮
 
 <br/>
@@ -182,18 +172,13 @@ me.say_hi()
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00f5ff&height=4&section=header" width="100%"/>
 
 ---
 
-<div align="center">
-
+<!-- SKILL POWER TREE -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=9999&color=bf00ff&center=true&vCenter=true&width=450&lines=📈+%3C+SKILL+POWER+LEVELS+%2F%3E+📈" />
 
 <br/>
@@ -201,28 +186,24 @@ me.say_hi()
 ```
   NANDHIKA's SKILL POWER TREE  🔮
  ═══════════════════════════════════════════════════
-  Python          ████████████████░░░░  80%   ⚡
-  Data Science    ██████████████░░░░░░  70%   📊
-  Generative AI   ████████████░░░░░░░░  60%   🤖
-  Machine Learning████████████░░░░░░░░  60%   🧠
-  Deep Learning   ██████████░░░░░░░░░░  50%   🔬
-  NLP             ████████░░░░░░░░░░░░  40%   💬
+  Python           ████████████████░░░░  80%   ⚡
+  Data Science     ██████████████░░░░░░  70%   📊
+  Generative AI    ████████████░░░░░░░░  60%   🤖
+  Machine Learning ████████████░░░░░░░░  60%   🧠
+  Deep Learning    ██████████░░░░░░░░░░  50%   🔬
+  NLP              ████████░░░░░░░░░░░░  40%   💬
  ═══════════════════════════════════════════════════
-  OVERALL         ████████████░░░░░░░░  RISING ⚡
+  OVERALL          ████████████░░░░░░░░  RISING ⚡
 ```
-
-</div>
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<!-- Animated Metrics via capsule -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:bf00ff&height=4" width="100%"/>
 
 ---
 
-<div align="center">
-
+<!-- GITHUB STATS -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=9999&color=00f5ff&center=true&vCenter=true&width=400&lines=📊+%3C+GITHUB+STATS+%2F%3E+📊" />
 
 <br/>
@@ -245,18 +226,48 @@ me.say_hi()
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhika0422&bg_color=0d0d0d&color=00f5ff&line=bf00ff&point=ff6600&area=true&area_color=7b2ff7&hide_border=false&border_color=00f5ff&radius=8" width="95%"/>
 
-</div>
-
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00f5ff&height=4" width="100%"/>
 
 ---
 
-<div align="center">
+<!-- CONTRIBUTION SNAKE -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=9999&color=00f5ff&center=true&vCenter=true&width=500&lines=🐍+%3C+CONTRIBUTION+SNAKE+%2F%3E+🐍" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,100:bf00ff&height=4" width="100%"/>
+
+---
+
+<!-- ISOMETRIC COMMITS -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=9999&color=bf00ff&center=true&vCenter=true&width=520&lines=🌐+%3C+3D+COMMIT+CALENDAR+%2F%3E+🌐" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nandhika0422&theme=radical&bg_color=0d0d0d&border_color=00f5ff&title_color=00f5ff&text_color=ffffff" width="60%"/>
+
+<br/><br/>
+
+<!-- Animated Capsule Stats Bar -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:7b2ff7,100:00f5ff&height=130&section=header&text=NANDHIKA%20%7C%20AI%20DEVELOPER&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="70%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,100:00f5ff&height=4" width="100%"/>
+
+---
+
+<!-- CONNECT -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=9999&color=00f5ff&center=true&vCenter=true&width=450&lines=🌐+%3C+CONNECT+WITH+ME+%2F%3E+🌐" />
 
 <br/>
@@ -272,12 +283,12 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- Dev Quote -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=9999&color=bf00ff&center=true&vCenter=true&width=600&lines=%22The+best+way+to+predict+the+future+is+to+create+it.%22+—+Alan+Kay" width="70%"/>
+<!-- Animated Quote -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=9999&color=bf00ff&center=true&vCenter=true&width=650&lines=✦+%22The+best+way+to+predict+the+future+is+to+create+it.%22+—+Alan+Kay+✦" width="75%"/>
 
 <br/><br/>
 
-<!-- Snake Animation — uses Platane's live hosted snake (always works) -->
+<!-- Second Snake — flipped colors for variety -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -286,7 +297,7 @@ me.say_hi()
 
 <br/>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,30:7b2ff7,70:bf00ff,100:0d0d0d&height=150&section=footer&text=Let's+build+the+future+with+AI+⚡&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+<!-- Animated Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,30:7b2ff7,70:bf00ff,100:0d0d0d&height=160&section=footer&text=Let's+build+the+future+with+AI+⚡&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%"/>
 
 </div>
