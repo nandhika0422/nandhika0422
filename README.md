@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="480" height="270"/>
 
 <br/>
 
@@ -233,7 +233,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhika0422&theme=radical&background=0d0d0d&border=00f5ff&stroke=00f5ff&ring=bf00ff&fire=ff6600&currStreakNum=00f5ff&sideNums=bf00ff&currStreakLabel=00f5ff&sideLabels=bf00ff&dates=888888" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=nandhika0422&theme=radical&background=0d0d0d&border=00f5ff&stroke=00f5ff&ring=bf00ff&fire=ff6600&currStreakNum=00f5ff&sideNums=bf00ff&currStreakLabel=00f5ff&sideLabels=bf00ff&dates=888888" width="60%"/>
 
 <br/><br/>
 
@@ -273,7 +273,7 @@ me.say_hi()
 <br/><br/>
 
 <!-- Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="70%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&pause=9999&color=bf00ff&center=true&vCenter=true&width=600&lines=%22The+best+way+to+predict+the+future+is+to+create+it.%22+—+Alan+Kay" width="70%"/>
 
 <br/><br/>
 
