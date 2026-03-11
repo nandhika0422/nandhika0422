@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,15:0a0020,30:180040,50:2d0060,70:180040,85:0a0020,100:000000&height=220&section=header&reversal=true&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000005,20:050015,40:0f0030,60:1a0050,80:0f0030,100:000005&height=400&section=header&text=NANDHIKA&fontSize=96&fontColor=00f5ff&fontAlignY=38&stroke=f472b6&strokeWidth=3&desc=BCA%20STUDENT%20%E2%80%94%20DATA%20SCIENCE%20%7C%7C%20AI%20DEVELOPER%20%7C%7C%20ML%20ENGINEER&descSize=14&descColor=c084fc&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:f472b6,50:c084fc,80:00f5ff,100:000000&height=3&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,16:c084fc,33:00f5ff,50:00ff9f,66:00f5ff,83:c084fc,100:f472b6&height=3" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f5ff,50:c084fc,100:f472b6&height=130&text=NANDHIKA&fontSize=90&fontColor=00f5ff&fontAlignY=70&animation=fadeIn&stroke=c084fc&strokeWidth=3&desc=%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93&descSize=8&descColor=c084fc&descAlignY=90" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:00f5ff,50:c084fc,80:f472b6,100:000000&height=3&animation=fadeIn" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,15:0a0020,30:180040,50:2d0060,70:180040,85:0a0020,100:000000&height=80&section=footer&reversal=true&animation=fadeIn&text=AI%20DEVELOPER%20%2F%2F%20ML%20ENGINEER%20%2F%2F%20PYTHON%20DEVELOPER&fontSize=13&fontColor=00f5ff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000005,50:0a0025,100:000005&height=60&text=%2F%2F%20nandhika0422%20%C2%B7%20Bengaluru%20%C2%B7%20India%20%C2%B7%202026&fontSize=13&fontColor=555577&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=650&height=110&lines=%E2%96%88%E2%96%88+SYSTEM+BOOT+%E2%96%88%E2%96%88;Initializing+NANDHIKA.OS+.............+OK;Mounting+AI+pipeline+................+OK;Scanning+neural+network+.............+OK;%E2%96%88%E2%96%88+ACCESS+GRANTED+%E2%9C%94+%E2%96%88%E2%96%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=650&height=130&lines=%E2%96%88%E2%96%88+SYSTEM+BOOT+%E2%96%88%E2%96%88;BCA+Student+%7C+Data+Science+%7C+Bengaluru;Initializing+AI+pipeline+..........+OK;Mounting+ML+modules+...............+OK;%E2%96%88%E2%96%88+ACCESS+GRANTED+%E2%9C%94+%E2%96%88%E2%96%88)](https://git.io/typing-svg)
 
 <br/>
 
