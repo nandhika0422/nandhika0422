@@ -8,11 +8,11 @@ Exploratory Data Analysis on the **2019 World Happiness Report** dataset coverin
 
 | Chart | What it shows |
 |-------|--------------|
-| `chart1_rankings.png` | Top 15 happiest vs Bottom 15 countries |
-| `chart2_drivers.png` | Which factors correlate most with happiness |
-| `chart3_gdp_vs_happiness.png` | GDP vs Happiness bubble scatter |
-| `chart4_regional.png` | Average happiness score by world region |
-| `chart5_heatmap.png` | Full feature correlation heatmap |
+| `chart1.png` | Top 15 happiest vs Bottom 15 countries |
+| `chart2.png` | Which factors correlate most with happiness |
+| `chart3.png` | GDP vs Happiness bubble scatter |
+| `chart4.png` | Average happiness score by world region |
+| `chart5.png` | Full feature correlation heatmap |
 
 ---
 
@@ -37,16 +37,20 @@ Exploratory Data Analysis on the **2019 World Happiness Report** dataset coverin
 
 ---
 
+## 📁 Files
+
+```
 world-happiness-eda/
-├── world_happiness_eda.ipynb         ← Full notebook with all 9 cells
+├── world_happiness_eda.ipynb   ← Full notebook with all 9 cells
 ├── chart1.png
 ├── chart2.png
 ├── chart3.png
 ├── chart4.png
 ├── chart5.png
 └── README.md
+```
 
 ---
 
-*Data source: World Happiness Report 2019*  
+*Data source: World Happiness Report 2019*
 *Built by [@nandhika0422](https://github.com/nandhika0422)*
