@@ -33,33 +33,50 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:0d0021&height=46&text=%2F%2F%20EDITOR%27S%20TERMINAL&fontSize=13&fontColor=00f5ff&animation=fadeIn" width="55%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000005,50:0a0025,100:000005&height=46&text=%2F%2F%20WHO%20AM%20I&fontSize=13&fontColor=00f5ff&animation=fadeIn" width="55%"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**`[ IDENTITY ]`**
+
+![](https://img.shields.io/badge/Name-Nandhika-00f5ff?style=for-the-badge&labelColor=000005)
+
+![](https://img.shields.io/badge/Degree-BCA-c084fc?style=for-the-badge&labelColor=000005)
+
+![](https://img.shields.io/badge/Course-Data_Science-f472b6?style=for-the-badge&labelColor=000005)
+
+![](https://img.shields.io/badge/Based_In-Bengaluru_🇮🇳-00ff9f?style=for-the-badge&labelColor=000005)
+
+![](https://img.shields.io/badge/Year-2026-00f5ff?style=for-the-badge&labelColor=000005)
+
+</td>
+<td align="center" width="50%">
+
+**`[ MISSION ]`**
+
+![](https://img.shields.io/badge/Status-Actively_Building-00ff9f?style=for-the-badge&labelColor=000005&logo=statuspage&logoColor=00ff9f)
+
+![](https://img.shields.io/badge/Building-Conversational_AI-c084fc?style=for-the-badge&labelColor=000005&logo=openai&logoColor=c084fc)
+
+![](https://img.shields.io/badge/Exploring-LLMs_%26_AI_Agents-f472b6?style=for-the-badge&labelColor=000005&logo=probot&logoColor=f472b6)
+
+![](https://img.shields.io/badge/Focus-RAG_Pipelines-00f5ff?style=for-the-badge&labelColor=000005&logo=chainlink&logoColor=00f5ff)
+
+![](https://img.shields.io/badge/Passion-Generative_AI-c084fc?style=for-the-badge&labelColor=000005&logo=huggingface&logoColor=c084fc)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-```python
-# ══════════════════════════════════════════════════════════
-#   N A N D H I K A  ·  nandhika0422  ·  SYSTEM ONLINE
-# ══════════════════════════════════════════════════════════
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=3500&pause=1000&color=c084fc&center=true&vCenter=true&width=600&lines=%22+She+doesn%27t+follow+the+algorithm.+She+writes+it.+%22)](https://git.io/typing-svg)
 
-profile = {
-    "name"       :  "Nandhika",
-    "degree"     :  "BCA — Bachelor of Computer Applications",
-    "course"     :  "Data Science",
-    "roles"      :  ["AI Developer", "ML Engineer", "Python Developer"],
-    "building"   :  "Conversational AI Assistant",
-    "exploring"  :  ["Large Language Models", "AI Agents", "RAG Pipelines"],
-    "skills"     :  {
-        "languages"  : ["Python", "SQL", "JavaScript", "HTML", "CSS"],
-        "ai_ml"      : ["TensorFlow", "PyTorch", "Scikit-Learn", "NLP"],
-        "genai"      : ["LangChain", "HuggingFace", "OpenAI API", "Gemini"],
-        "tools"      : ["FastAPI", "Streamlit", "Git", "VS Code", "Jupyter"],
-    },
-    "status"     :  "actively building",
-    "signature"  :  "She doesn't follow the algorithm. She writes it.",
-}
-```
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:00f5ff,50:c084fc,80:f472b6,100:000000&height=2&animation=fadeIn" width="70%"/>
