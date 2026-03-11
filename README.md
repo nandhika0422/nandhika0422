@@ -37,18 +37,14 @@ Exploratory Data Analysis on the **2019 World Happiness Report** dataset coverin
 
 ---
 
-## 📁 Files
-
-```
 world-happiness-eda/
-├── Untitled0.ipynb         ← Full notebook with all 9 cells
-├── chart1_rankings.png
-├── chart2_drivers.png
-├── chart3_gdp_vs_happiness.png
-├── chart4_regional.png
-├── chart5_heatmap.png
+├── world_happiness_eda.ipynb         ← Full notebook with all 9 cells
+├── chart1.png
+├── chart2.png
+├── chart3.png
+├── chart4.png
+├── chart5.png
 └── README.md
-```
 
 ---
 
