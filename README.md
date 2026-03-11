@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0021,60:160033,90:0d0021,100:000000&height=350&section=header&text=NANDHIKA&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=AI%20DEVELOPER%20%2F%2F%20ML%20ENGINEER%20%2F%2F%20PYTHON&descSize=15&descColor=00f5ff&descAlignY=62&animation=fadeIn&stroke=00f5ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,15:0a0020,30:180040,50:2d0060,70:180040,85:0a0020,100:000000&height=220&section=header&reversal=true&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:00f5ff,50:c084fc,75:00f5ff,100:000000&height=2&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:f472b6,50:c084fc,80:00f5ff,100:000000&height=3&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f5ff,50:c084fc,100:f472b6&height=130&text=NANDHIKA&fontSize=90&fontColor=00f5ff&fontAlignY=70&animation=fadeIn&stroke=c084fc&strokeWidth=3&desc=%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93&descSize=8&descColor=c084fc&descAlignY=90" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:00f5ff,50:c084fc,80:f472b6,100:000000&height=3&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,15:0a0020,30:180040,50:2d0060,70:180040,85:0a0020,100:000000&height=80&section=footer&reversal=true&animation=fadeIn&text=AI%20DEVELOPER%20%2F%2F%20ML%20ENGINEER%20%2F%2F%20PYTHON%20DEVELOPER&fontSize=13&fontColor=00f5ff&fontAlignY=55" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Initializing+NANDHIKA.OS...;Loading+AI+modules+............+OK;ACCESS+GRANTED+%E2%9C%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=650&height=110&lines=%E2%96%88%E2%96%88+SYSTEM+BOOT+%E2%96%88%E2%96%88;Initializing+NANDHIKA.OS+.............+OK;Mounting+AI+pipeline+................+OK;Scanning+neural+network+.............+OK;%E2%96%88%E2%96%88+ACCESS+GRANTED+%E2%9C%94+%E2%96%88%E2%96%88)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,7 +30,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00f5ff,100:000000&height=1&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:f472b6,50:c084fc,80:00f5ff,100:000000&height=2&animation=fadeIn" width="70%"/>
 
 </div>
 
@@ -60,7 +66,7 @@ profile = {
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:c084fc,100:000000&height=1&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:00f5ff,50:c084fc,80:f472b6,100:000000&height=2&animation=fadeIn" width="70%"/>
 </div>
 
 <br/>
@@ -121,7 +127,7 @@ profile = {
 &nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=flat-square&logo=python&logoColor=00ff9f)
 &nbsp;[![View Repo](https://img.shields.io/badge/VIEW_REPO_%E2%86%92-000000?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/nandhika0422/world-happiness-eda)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00f5ff,100:000000&height=1&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:f472b6,50:c084fc,80:00f5ff,100:000000&height=2&animation=fadeIn" width="70%"/>
 
 </div>
 
@@ -172,7 +178,7 @@ profile = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:c084fc,100:000000&height=1&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:00f5ff,50:c084fc,80:f472b6,100:000000&height=2&animation=fadeIn" width="70%"/>
 
 </div>
 
@@ -201,7 +207,7 @@ profile = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00f5ff,100:000000&height=1&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:f472b6,50:c084fc,80:00f5ff,100:000000&height=2&animation=fadeIn" width="70%"/>
 
 </div>
 
@@ -220,7 +226,7 @@ profile = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:c084fc,100:000000&height=1&animation=fadeIn" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:00f5ff,50:c084fc,80:f472b6,100:000000&height=2&animation=fadeIn" width="70%"/>
 
 </div>
 
@@ -247,6 +253,6 @@ profile = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0021,60:160033,90:0d0021,100:000000&height=180&section=footer&text=nandhika0422&fontSize=22&fontColor=00f5ff&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,20:0a0020,40:200050,60:3d0080,80:200050,100:000000&height=200&section=footer&reversal=false&animation=fadeIn&text=nandhika0422&fontSize=24&fontColor=00f5ff&fontAlignY=45&desc=ALL+SYSTEMS+OPERATIONAL+%2F%2F+2026&descSize=12&descColor=c084fc&descAlignY=65" width="100%"/>
 
 </div>
